@@ -1,4 +1,5 @@
-# ☁️ Ciel
+# ☁️ Ciel Codebase Intelligence & Engineering Layer
+
 
 > *The AI coding assistant with a sky-level view of your entire product.*
 
